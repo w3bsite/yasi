@@ -1,0 +1,19 @@
+
+@media only screen and (max-width: 768px)  {
+.jumbotron{
+	margin-top: 250px
+}
+}
+
+h6,h3,p{font-family: Bookman}
+}
+
+a:hover { text-decoration : none;
+}
+a { color:#666666;
+text-decoration:none;
+}
+.bi bi-pencil-square : hover{
+	color: yellow;
+	background-color: red;
+}
